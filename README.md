@@ -6,7 +6,7 @@
 
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A)
 
-<a href="https://telegram.dog/sahid_malik"><img alt="Telegram" src="https://img.shields.io/badge/Sahid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://telegram.dog/sahid_malik"><img alt="Telegram" src="https://img.shields.io/badge/Sahid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
 </p>
 
 <p align="center">
@@ -24,5 +24,5 @@
 
 <p align="center">
 <a href="https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A">
-  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
+  <img src="https://img.shields.io/badge/Subscribe-red?logo=youtube" width="180">
 </p>
