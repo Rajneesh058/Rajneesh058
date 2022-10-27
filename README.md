@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **android, Mearn**
 
-- 📫 How to reach me **sm.malik7283@gmail.com**
+- 📫 How to reach me **moviesindna07@gmail.com**
 
 [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A)
 <img src="https://img.shields.io/badge/Subscribe-red?logo=youtube" width="280">
