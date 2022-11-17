@@ -20,7 +20,7 @@
 
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A)
 
-<a href="https://telegram.dog/sahid_malik"><img alt="Telegram" src="https://img.shields.io/badge/Sahid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+<a href="https://telegram.dog/Rajneesh_Singh_Tomar"><img alt="Telegram" src="https://img.shields.io/badge/Sahid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
 </p>
 
 <p align="center">
