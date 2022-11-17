@@ -32,11 +32,11 @@
 
 <p align="center">
   <a href="https://github.com/Rajneesh058">
-    <img src="https://activity-graph.herokuapp.com/graph?username=malik7983&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Rajneesh058&theme=react-dark" />
   </a>
 </p>
 
 <p align="center">
-<a href="https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A">
+<a href="https://youtube.com/channel/UCFDpDpnOgcoztiiIkjnJYfw">
   <img src="https://img.shields.io/badge/Subscribe-red?logo=youtube" width="180">
 </p>
