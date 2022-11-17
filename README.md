@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mslik7983">
+  <a href="https://github.com/Rajneesh058">
     <img src="https://activity-graph.herokuapp.com/graph?username=malik7983&theme=react-dark" />
   </a>
 </p>
